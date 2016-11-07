@@ -10,7 +10,7 @@
   },
   "main": "index",
   "engines": {
-    "node": "6.0.2"
+    "node": "6.2.0"
   },
   "dependencies": {},
   "devDependencies": {}
